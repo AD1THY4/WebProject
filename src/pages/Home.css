@@ -1,0 +1,45 @@
+.background {
+  background-color: whites;
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 682px;
+}
+.ImageSlider {
+  display: flex;
+  background: rgba(0, 151, 19, 0.01);
+  padding: 10vh;
+  margin-top: 5vh;
+  margin-left: 1vw;
+}
+.Head1 {
+  display: block;
+  margin-left: vw;
+  width: 10px;
+  margin-top: 10vh;
+  word-break: break-all;
+}
+.About {
+  margin-left: 9.5vw;
+  margin-top: 8.5vh;
+}
+.Head2 {
+  margin-left: -0.5vw;
+  margin-top: 35vh;
+  width: 10px;
+  word-break: break-all;
+}
+.Events {
+  margin-left: -12.2vw;
+  margin-top: 31vh;
+}
+.Head3 {
+  margin-left: -0.5vw;
+  margin-top: 60vh;
+  width: 10px;
+  word-break: break-all;
+}
+.Achv {
+  margin-left: -12.15vw;
+  margin-top: 53.5vh;
+}
